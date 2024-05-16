@@ -1,0 +1,6 @@
+pyfiglet~=1.0.2
+colorama~=0.4.6
+loguru~=0.5.3
+rich~=13.7.1
+tqdm~=4.66.4
+streamlit~=1.34.0
